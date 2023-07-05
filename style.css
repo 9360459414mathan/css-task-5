@@ -1,0 +1,26 @@
+body{
+	background-color:rgb(60, 60, 60);
+	color:white;
+}
+
+.ki{
+	
+	font-family: 'Bungee Inline', cursive;
+font-family: 'Butcherman', cursive;
+font-family: 'Charmonman', cursive;
+font-family: 'Creepster', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Faster One', cursive;
+font-family: 'Kenia', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Trade Winds', cursive;
+font-family: 'Wallpoet', cursive;
+font-family: 'Water Brush', cursive;
+width:100%;
+height:auto;
+text-align:center;
+color:red;
+text-shadow:-2px 0px black,1px 2px lightblue,-1px 2px lightgreen;
+}
